@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BalancedParanthesis", "BalancedParanthesis\BalancedParanthesis.csproj", "{A8B12CBE-2245-4B37-8E5F-8678D7CD0CCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8B12CBE-2245-4B37-8E5F-8678D7CD0CCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8B12CBE-2245-4B37-8E5F-8678D7CD0CCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8B12CBE-2245-4B37-8E5F-8678D7CD0CCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8B12CBE-2245-4B37-8E5F-8678D7CD0CCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {933AD051-3667-4074-80B9-3465193D42DE}
+	EndGlobalSection
+EndGlobal
